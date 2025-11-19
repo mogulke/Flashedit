@@ -1,0 +1,5 @@
+{
+  "name": "FlashEdit AI",
+  "description": "A powerful AI photo editing tool powered by Gemini 2.5 Flash Image. Upload images and use natural language prompts to edit them instantly.",
+  "requestFramePermissions": []
+}
